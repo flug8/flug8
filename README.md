@@ -1,6 +1,16 @@
 [![GitHub Banner](GitHubHeader1.png)](https://github.com/flug8)
 
-### Hi there 👋
+<!--### Hi there 👋-->
+
+## Projects / Organizations
+<p float="left">
+  <a href="https://github.com/SimpleJS-AI">
+    <img src="SimpleJS.png" width="49.5%" />
+  </a>
+  <a href="https://github.com/flug8/flugcraft-website">
+    <img src="Flugcraft.png" width="49.5%" />
+  </a>
+</p>
 
 <!--
 **flug8/flug8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
