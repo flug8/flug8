@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](GitHubHeader1.png)](https://simplejs.ai/)
+
 ### Hi there 👋
 
 <!--
