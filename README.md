@@ -5,10 +5,10 @@
 ## Projects / Organizations
 <p float="left">
   <a href="https://github.com/SimpleJS-AI">
-    <img src="SimpleJS.png" width="49%" />
+    <img src="SimpleJS-round50.png" width="49%" />
   </a>
   <a href="https://github.com/flug8/flugcraft-website">
-    <img src="Flugcraft.png" width="49%" />
+    <img src="Flugcraft-round50.png" width="49%" />
   </a>
 </p>
 
